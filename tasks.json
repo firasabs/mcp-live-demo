@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Prepare MCP presentation",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Test GitHub MCP connection",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Practice live demo",
+    "completed": false
+  }
+]
